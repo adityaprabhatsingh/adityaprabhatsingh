@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | ML Enthusiast | Problem Solver</h3>
