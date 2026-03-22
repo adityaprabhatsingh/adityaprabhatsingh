@@ -24,11 +24,6 @@
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
-
----
 
 ## 🚀 Projects
 - 🔹 BusTrack AI (Real-time tracking system)  
